@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F454FC22627F8A70055398A /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F454FC12627F8A70055398A /* TestFile.swift */; };
 		7FEE95B0261EC5300072E428 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEE95AF261EC5300072E428 /* AppDelegate.swift */; };
 		7FEE95B2261EC5300072E428 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEE95B1261EC5300072E428 /* SceneDelegate.swift */; };
 		7FEE95B4261EC5310072E428 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEE95B3261EC5300072E428 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F454FC12627F8A70055398A /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 		7FEE95AC261EC5300072E428 /* AppsFlyerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppsFlyerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FEE95AF261EC5300072E428 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FEE95B1261EC5300072E428 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				7FEE95BA261EC5330072E428 /* LaunchScreen.storyboard */,
 				7FEE95BD261EC5330072E428 /* Info.plist */,
 				7FEE95E2261ED0820072E428 /* AppsFlyerLib.framework */,
+				7F454FC12627F8A70055398A /* TestFile.swift */,
 			);
 			path = AppsFlyerDemo;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FEE95B4261EC5310072E428 /* ViewController.swift in Sources */,
+				7F454FC22627F8A70055398A /* TestFile.swift in Sources */,
 				7FEE95B0261EC5300072E428 /* AppDelegate.swift in Sources */,
 				7FEE95B2261EC5300072E428 /* SceneDelegate.swift in Sources */,
 			);
